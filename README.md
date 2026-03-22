@@ -1,27 +1,63 @@
-<h1 align="center">Hi 👋, I'm Dhruv Anand</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm Dhruv 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvanand214&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvanand214" /> </p>
+**Full Stack Developer** · Angular · React · Node.js · TypeScript · MERN
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvanand214" alt="dhruvanand214" /></a> </p>
+I build web apps that are fast, scalable, and production-ready.  
+2+ years shipping real software at **Tech Mahindra** — zero production defects.
 
-- 🌱 I’m currently learning **Web development, Ethical hacking and Python**
+---
 
-- 📫 How to reach me **dhruvanand214@gmail.com**
+## 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhruv-anand-b19b51190?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bw6udjfu1sh6eshadcnumlw%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruv-anand-b19b51190?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bw6udjfu1sh6eshadcnumlw%3d%3d" height="30" width="40" /></a>
-<a href="https://instagram.com/dhruvanand2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvanand2000" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhruvanand214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruvanand214" height="30" width="40" /></a>
-<a href="https://discord.gg/dhruvanand214#3873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dhruvanand214#3873" height="30" width="40" /></a>
-</p>
+### [EventLedger](https://github.com/dhruvanand214/eventledger) &nbsp;·&nbsp; [Live Demo ↗](https://eventledger.vercel.app)
+> Role-based venue & event management platform — QR-based guest sessions, live dashboards, multi-tenant support
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Tech:** React · Node.js · Express · MongoDB · Redis · Socket.IO · JWT · Microservices (6 services)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvanand214&show_icons=true&locale=en&layout=compact" alt="dhruvanand214" /></p>
+- 🏗️ Architected as a **6-service microservices system** with an API gateway
+- ⚡ Reduced search latency **83%** (1.2s → 200ms) via MongoDB index redesign
+- 🔴 Real-time owner dashboard using **Redis pub/sub + Socket.IO**
+- 🔐 Multi-role auth (admin / owner / entry / bartender / exit) with JWT + Redis session validation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvanand214&show_icons=true&locale=en" alt="dhruvanand214" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvanand214&" alt="dhruvanand214" /></p>
+### [GhostKitchen](https://github.com/dhruvanand214/ghost-kitchen) &nbsp;·&nbsp; [Live Demo ↗](https://ghost-kitchen-frontend.vercel.app)
+> Multi-role food ordering platform — real-time kitchen updates, OTP order lookup, admin controls
+
+**Tech:** React · Express · GraphQL · Socket.IO · MongoDB · JWT
+
+- 📡 **GraphQL API** serving 3 distinct role flows (admin, kitchen, customer)
+- 🔴 Real-time order updates via **scoped Socket.IO rooms** per kitchen
+- 📱 OTP-based phone verification for stateless customer order lookup
+- ⚙️ Custom state-machine engine for order lifecycle management
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Frontend    →  Angular 14-17 · React.js · TypeScript · RxJS · Tailwind CSS · Apollo Client
+Backend     →  Node.js · Express · GraphQL · REST APIs · Socket.IO · Redis · JWT
+Databases   →  MongoDB · MySQL · PostgreSQL
+DevOps      →  Git · Docker · GitHub Actions · Postman · Chrome DevTools
+Testing     →  Jasmine · Karma · Unit & Integration Testing
+```
+
+---
+
+## 📈 At Work (Tech Mahindra · Aug 2023 – Present)
+
+- ⚡ Cut Core Web Vitals load time **20%** — OnPush change detection + lazy loading
+- 🐛 Eliminated a memory leak crashing sessions for **5,000+ users** — Chrome flame graph profiling
+- 🔄 Reduced API calls **40%** — RxJS caching layer (shareReplay + combineLatest)
+- 🏗️ Migrated **100+ AngularJS components** to Angular 14+ — closed 4 critical CVEs
+- 🏆 **Digital Warrior Award** — top performer, zero-defect delivery
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruv--anand-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/dhruv-anand)
+[![Email](https://img.shields.io/badge/Email-dhruvanand214@gmail.com-EA4335?style=flat&logo=gmail)](mailto:dhruvanand214@gmail.com)
+[![Portfolio](https://img.shields.io/badge/EventLedger-Live-22c55e?style=flat)](https://eventledger.vercel.app)
+[![Portfolio](https://img.shields.io/badge/GhostKitchen-Live-f97316?style=flat)](https://ghost-kitchen-frontend.vercel.app)
