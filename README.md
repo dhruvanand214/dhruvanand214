@@ -59,5 +59,6 @@ Testing     →  Jasmine · Karma · Unit & Integration Testing
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruv--anand-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/dhruv-anand)
 [![Email](https://img.shields.io/badge/Email-dhruvanand214@gmail.com-EA4335?style=flat&logo=gmail)](mailto:dhruvanand214@gmail.com)
-[![Portfolio](https://img.shields.io/badge/EventLedger-Live-22c55e?style=flat)](https://eventledger.vercel.app)
-[![Portfolio](https://img.shields.io/badge/GhostKitchen-Live-f97316?style=flat)](https://ghost-kitchen-frontend.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Terminal-6366f1?style=flat)](https://dev-portfolio-terminal.vercel.app)
+[![EventLedger](https://img.shields.io/badge/EventLedger-Live-22c55e?style=flat)](https://eventledger.vercel.app)
+[![GhostKitchen](https://img.shields.io/badge/GhostKitchen-Live-f97316?style=flat)](https://ghost-kitchen-frontend.vercel.app)
